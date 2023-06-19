@@ -1,0 +1,2 @@
+﻿Este ejemplo esta bien porque cuando quieras añadir una nueva bebida, no tienes que estar modificando la clase Invoice todo el rato, por lo tanto es cerrado y 
+abierto a cambios, porque si deseas abrir añadir una nueva bebida, es tan sencillo como añadir una clase que implemente la interdaz IDrink

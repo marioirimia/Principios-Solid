@@ -1,0 +1,1 @@
+﻿Este ejemplo esta mal, porque la clase Beer tiene varias responsabilidades, almacenar los datos, guardar y enviar

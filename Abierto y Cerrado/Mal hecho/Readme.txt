@@ -1,0 +1,1 @@
+﻿Este ejemplo esta mal porque cuando quieras añadir una nueva bebida, tienes que estar modificando la clase Invoice todo el rato, por lo tanto no es cerrado

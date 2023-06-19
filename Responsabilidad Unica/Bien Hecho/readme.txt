@@ -1,0 +1,1 @@
+﻿Este ejemplo esta bien hecho, porque las responsabilidades se reparten, de esta manera el codigo es mas escalable y abierto a cambios
